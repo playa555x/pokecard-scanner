@@ -1,0 +1,25 @@
+# Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+*.iml
+.idea/
+
+# Android
+android/.gradle/
+android/local.properties
+
+# iOS
+ios/.symlinks/
+ios/Pods/
+
+# Backend
+backend/node_modules/
+backend/data/
+backend/.env
+
+# Misc
+*.log
+.DS_Store
+Thumbs.db
